@@ -11,7 +11,7 @@
 - Gabriel Majeau
 - Gabriel Alderige
 - Matheus Monteiro
-- Gustavvo Maciel
+- Gustavo Maciel
 
 ## Professor
 
