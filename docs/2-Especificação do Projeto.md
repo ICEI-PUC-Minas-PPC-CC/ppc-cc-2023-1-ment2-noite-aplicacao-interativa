@@ -31,7 +31,6 @@ Para selecionar as imagens de suas personas, utilize o site: https://this-person
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
-Exemplo:
 
 |EU COMO... | QUERO/PRECISO ... |PARA ...                |
 |--------------------|------------------------------------|----------------------------------------|
@@ -47,8 +46,6 @@ Apresente aqui as histórias de usuário que são relevantes para o projeto de s
 > - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
 > - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
-## Obs.1: Caso seu grupo não vá desenvolver uma solução de software, as seções "requisitos funcionais", "requisitos não funcionais" e "restrições" DEVERÃO ser REMOVIDAS.
-## Obs.2: Caso seu grupo não vá desenvolver algum atividade que demande, uma pesquisa de campo através de questinários, a seção "artefatos para levantamento de dados" DEVERÁ ser REMOVIDA.
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
