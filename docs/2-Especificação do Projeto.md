@@ -33,7 +33,7 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 Exemplo:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO... `Roberto Carlos`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
 |Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
