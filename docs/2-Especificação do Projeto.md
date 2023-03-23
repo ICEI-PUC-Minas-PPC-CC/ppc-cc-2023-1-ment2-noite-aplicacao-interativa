@@ -58,11 +58,6 @@ Maria Antonieta - Maria é uma menina incrível, que apesar das dificuldades é 
 |RNF-01| O sistema deve proporcionar diversão ao aluno | MÉDIA | 
 |RNF-02| O sistema deve possuir uma aparência atraente  |  MÉDIA | 
 
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 ### Artefatos para levantamento de dados
 
 Nesta seção, caso seu grupo vá realizar algum tipo de levantamento de dados/entrevistas, descreva o(s) artefato(s) produzidos para tal. Também deverá ser descrita qual estratégia será utilizada para este levantamento. Por exemplo: como os questionários serão aplicados? (_in loco_, via disponibilização pela _web_ etc), qual material/estratégia de divulgação será utilizado? 
