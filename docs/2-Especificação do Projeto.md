@@ -37,7 +37,9 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 |Roberto Carlos | Mobilidade Motora | aprimorar movimentos fisicos e melhorar em seus jogos |
 |Maria Antonieta | Estimular o aprendizado | aprimorar estrategias que ajudará em seu dia a dia |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+Roberto Carlos - Com sua deficiancia, movimentar seu corpo, mesmo nas partes que são possiveis era um desafio em sua mente, mas com o passar dos anos e o descobrimento de video-games, ele resolveu realmente se esforçar para conseguir executar os movimentos do seu corpo com excelência. Para melhorar sua gameplay em seus jogos e em suas atividades diárias;
+
+Maria Antonieta - Maria é uma menina incrível, que apesar das dificuldades é extremamente simpática. Ela luta todo dia para resolver seus problemas e conseguir socializar e se divertir com seus amigos e familiares, e também se divertir com suas séries e jogos de celular.
 
 
 ### Requisitos Funcionais
