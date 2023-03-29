@@ -1,0 +1,61 @@
+// Define the pins for the buttons
+int buttonPin1 = 2;
+int buttonPin2 = 3;
+int buttonPin3 = 4;
+int buttonPin4 = 5;
+
+// Define the pins for the LEDs
+int ledPin1 = 6;
+int ledPin2 = 7;
+int ledPin3 = 8;
+int ledPin4 = 9;
+
+void setup() {
+  // Set the pins for the buttons as inputs with internal pullup resistors
+  pinMode(buttonPin1, INPUT_PULLUP);
+  pinMode(buttonPin2, INPUT_PULLUP);
+  pinMode(buttonPin3, INPUT_PULLUP);
+  pinMode(buttonPin4, INPUT_PULLUP);
+  
+  // Set the pins for the LEDs as outputs
+  pinMode(ledPin1, OUTPUT);
+  pinMode(ledPin2, OUTPUT);
+  pinMode(ledPin3, OUTPUT);
+  pinMode(ledPin4, OUTPUT);
+}
+
+void loop() {
+  // Check the status of each button
+  int buttonState1 = digitalRead(buttonPin1);
+  int buttonState2 = digitalRead(buttonPin2);
+  int buttonState3 = digitalRead(buttonPin3);
+  int buttonState4 = digitalRead(buttonPin4);
+  
+  // Turn on LED 1 if button 1 is pressed
+  if (buttonState1 == LOW) {
+    digitalWrite(ledPin1, HIGH);
+  } else {
+    digitalWrite(ledPin1, LOW);
+  }
+  
+  // Turn on LED 2 if button 2 is pressed
+  if (buttonState2 == LOW) {
+    digitalWrite(ledPin2, HIGH);
+  } else {
+    digitalWrite(ledPin2, LOW);
+  }
+  
+  // Turn on LED 3 if button 3 is pressed
+  if (buttonState3 == LOW) {
+    digitalWrite(ledPin3, HIGH);
+  } else {
+    digitalWrite(ledPin3, LOW);
+  }
+  
+  // Turn on LED 4 if button 4 is pressed
+  if (buttonState4 == LOW) {
+    digitalWrite(ledPin4, HIGH);
+  } else {
+    digitalWrite(ledPin4, LOW);
+  }
+}
