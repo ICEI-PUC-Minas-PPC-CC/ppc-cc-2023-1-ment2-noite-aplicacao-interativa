@@ -31,7 +31,7 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 |1| Introdução à lógica de programação | 30 minutos | 
 |2| Introdução ao funcionamento de um compilador   | 20 minutos |-->
 
-Componentes necessarios para a realizzacao do projeto
+Componentes necessarios para a realizacao do projeto
 
 1 Display LCD 16X2 - BackLight Azul -- 25,11R$
 1 Interrruptor Generico -- De 3 a 10R$
