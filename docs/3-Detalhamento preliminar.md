@@ -1,4 +1,4 @@
-# Detalhamento preliminar
+<!--# Detalhamento preliminar
 
 ## Obs.1: Caso seu grupo não vá desenvolver uma solução de software, as seções "projeto de interface" e "_user flow_" DEVERÃO ser REMOVIDAS.
 
@@ -29,9 +29,19 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 |Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
 |1| Introdução à lógica de programação | 30 minutos | 
-|2| Introdução ao funcionamento de um compilador   | 20 minutos |
+|2| Introdução ao funcionamento de um compilador   | 20 minutos |-->
 
+Componentes necessarios para a realizzacao do projeto
 
+1 Display LCD 16X2 - BackLight Azul -- 25,11R$
+1 Interrruptor Generico -- De 3 a 10R$
+4 Lampadas Coloridas incandecente ou de led -- 10 a 15R$
+4 Botoes Coloridos para suas lampadas especificas -- 10 Botoes por 30R$
+2 Botoes genericos parrar trabalhar com o interruptor -- 5R$
+Cabos Jumpers
+Resistores
+1 Protoboard
+1 Bateria para o projeto funcionarr sem estar ligado a um computador
 
 
 
