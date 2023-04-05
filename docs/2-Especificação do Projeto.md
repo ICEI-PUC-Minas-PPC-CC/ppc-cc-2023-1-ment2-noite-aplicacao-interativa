@@ -3,7 +3,8 @@
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
  Nosso problema em questão trabalha o estimulo cognitivo principalmente das crianças, como suas: habilidades motoras, coordenção, força muscular.
- Nosso projeto, se trata de luzes que respondem ao toque, podem influenciar no aprendizado da criança, podendo ser utilizado para ensinar 
+
+ Nosso projeto se trata de luzes que respondem ao toque, podem influenciar no aprendizado da criança, podendo ser utilizado para ensinar 
 habilidades basicas como contar, conhecer novas cores, promover interação social e desenvolvimento de linguagem.
 .
 ## Personas
