@@ -3,9 +3,7 @@
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
  Nosso problema em questão trabalha o estimulo cognitivo principalmente das crianças, como suas: habilidades motoras, coordenção, força muscular.
-O primeiro projeto é um carrinho projetado especialmente para crianças deficientes pode ajuda-las a se sentirem mais confiantes e independentes,
-estimulando na sua autoestima. 
- Nosso segundo projeto, que se trata de luzes que respondem ao toque, pode influenciar no aprendizado da criança, podendo ser utilizado para ensinar 
+ Nosso projeto, se trata de luzes que respondem ao toque, podem influenciar no aprendizado da criança, podendo ser utilizado para ensinar 
 habilidades basicas como contar, conhecer novas cores, promover interação social e desenvolvimento de linguagem.
 .
 ## Personas
@@ -25,7 +23,17 @@ habilidades basicas como contar, conhecer novas cores, promover interação soci
 
 Nosso projeto, ou no caso, nossa solução, pode ajudar essas personas da seguintes formas: 
 
-Estimulação sensorial, incentivo à mobilidade, aumento da autoestima, aprendizado e diversão. No caso da persona com deficiencia nas pernas, o nosso projeto  que se refere ao carrinho, sera acessivel, pois o controle sera um pedal funcional pela mão.
+> Estimulação sensorial
+
+> Iincentivo à mobilidade
+
+> Aumento da autoestima
+
+> Aprendizado 
+
+> Diversão
+
+
 
 ## Histórias de Usuários
 
