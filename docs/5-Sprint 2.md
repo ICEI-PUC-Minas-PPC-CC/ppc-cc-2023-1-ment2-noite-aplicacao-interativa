@@ -30,10 +30,15 @@ Antes de iniciar a montagem da mesa interativa, é essencial realizar um planeja
    Fotos do processo:
    -----------------------------------------------
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-aplicacao-interativa/blob/main/docs/img/projeto%20mentoring%202.jfif">
+
 _"Exemplo de brinquedos com botões e lâmpandas"_
+
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-aplicacao-interativa/blob/main/docs/img/projeto%20mentoring%202%203.jfif">
+
 _"Parte externa finalizada, ainda não funcional"_
+
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-aplicacao-interativa/blob/main/docs/img/projeto%20mentoring%202%202.jfif">
+
 _"Processo de criação"_
 
 
