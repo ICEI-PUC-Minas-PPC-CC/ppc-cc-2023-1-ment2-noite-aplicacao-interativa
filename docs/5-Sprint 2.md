@@ -60,7 +60,12 @@ _"Processo de criação"_
 
 <a href="https://www.eletrogate.com/protoboard-400-pontos" target="_blank">Protoboard</a>
 
-<a href="https://produto.mercadolivre.com.br/MLB-2200625838-2pcs-100mm-grande-cupula-em-forma-de-5v12v-levou-boto-ilumi-_JM#position=8&search_layout=grid&type=item&tracking_id=11ccec75-ac5e-4d6a-a0c3-7d332ff3b2af" target="_blank">Botoões coloridos</a>
+<a href="https://produto.mercadolivre.com.br/MLB-2200625838-2pcs-100mm-grande-cupula-em-forma-de-5v12v-levou-boto-ilumi-_JM#position=8&search_layout=grid&type=item&tracking_id=11ccec75-ac5e-4d6a-a0c3-7d332ff3b2af" target="_blank">Botões coloridos</a>
 
 Fios pra conexão: fios podem ser comprados com a necessidade ao longo do projeto
+
+
+# Dificuldades:
+
+Com todo o andamento do projeto em sua maioria sendo a parte elétrica, tivemos alguma dificuldade causada pela falta de expêriencia na área, a disciplina em si foi diferente e interessante, e a causa em que estavamos trabalhando nos deu um incentivo maior para a realização do projeto. A falta de tempo, tambem foi um impecilio para a entrega, pois o processo de compra dos componentes foi muito extendido e ocasionou no atraso da montagem, junto a pouca pratica na area, ficamos meio dependentes dos colegas da engenharia elétrica.
 
