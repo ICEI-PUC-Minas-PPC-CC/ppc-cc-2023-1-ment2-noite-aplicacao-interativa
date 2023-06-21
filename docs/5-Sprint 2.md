@@ -1,22 +1,38 @@
 # Sprint 2
 
-Entrega de um relatório geral que inclua:
+Relatório Geral:
 
-> Descrição detalhada das tarefas executadas: cronograma atualizado (dia, horário, alunos extensionistas que participaram, etc), material preparado, registro fotográfico, relatório de participação dos alunos etc.
+> Após feita a cotação e aprovada a compra dos materiais, nós nos reunimos no laboratório de maquina elétricas e com o _MDF_ feita pela maquetaria da puc, iniciamos a montagem da mesa de aplicação interativa.
 
-> Descrição detalhada dos resultados obtidos: descrever detalhadamente a percepção do grupo com relação à execução da prática extensionista (aula por aula/ação por ação), observando questões relacionadas à sua execução incluindo, sugestões de melhoria, observação com relação aos objetivos previamente definidos e os resultados alcançados, entre outras percepções do grupo.
+Este relatório descreve o passo a passo da montagem da mesa interativa para fisioterapia desenvolvida pelo grupo, que tem como objetivo incentivar a movimentação de pessoas com deficiência. O brinquedo é composto por botões que acendem luzes, proporcionando um estímulo visual para os pacientes. A montagem da mesa foi realizada com a ajuda de colegas da Engenharia Elétrica, visando agilizar o processo e garantir a funcionalidade do dispositivo.
 
-Atualizar o repositório no GitHub na seção relacionada à Sprint 2.
+## Materiais Utilizados:
 
-Fazer download do repositório e enviar o .zip via Canvas.
+Placa Arduino Uno
 
-Além disso, preencher a ficha de avaliação interna do grupo disponível no Canvas e anexá-la, apenas no Canvas (não a incluam aqui repositório do GitHub, por favor).
+Botões táteis
 
-Quaisquer dúvidas, me escrevam.
+LEDs (luzes)
 
-<h1>Cotação</h1>
+Resistores
 
-<h2>Abaixo os itens que nós selecionamos</h2>
+Fios 
+
+Computador com software Arduino
+
+Ferramentas de corte e decapagem de fios
+
+Processo:
+--------------------------------------------------------------------------
+Antes de iniciar a montagem da mesa interativa, é essencial realizar um planejamento adequado. Definimos o tamanho e o design da mesa, bem como a posição dos botões e LEDs. nos certificamos que o projeto atenda às necessidades dos pacientes e seja ergonomicamente correto. Foi prepararado a superfície da mesa, garantindo que seja adequada para a fixação dos componentes, após isso foi posicionado os botões táteis na mesa de acordo com o planejamento realizado, foi utilizado fios jumper para fazer a conexão dos botões à placa arduino e identificado os pinos de entrada e saída dos botões e conecte-os aos pinos digitais da placa.
+   Foi posicionado os LEDs na mesa, alinhados com os botões correspondentes, feitos furos na superfície da mesa para acomodar os LEDs e inseridos nos respectivos e utilizado o software Arduino IDE para programar a placa, esscrevemos o código necessário para acionar os LEDs quando os botões forem pressionados e demosupload para o _Arduino Leonardo_.
+
+   Fotos do processo:
+   -----------------------------------------------
+
+
+
+## Cotação:
 
 <a href="https://www.eletrogate.com/placa-leonardo-r3-cabo-usb-para-arduino?utm_source=Site&utm_medium=GoogleMerchant&utm_campaign=GoogleMerchant&gad=1&gclid=CjwKCAjw04yjBhApEiwAJcvNoVs387pTeqheh4vHgLCgEE69WwKLIdPf9hp105ulmKGsFpTr6BzHORoCqocQAvD_BwE" target="_blank">Arduino leonardo</a>
 
