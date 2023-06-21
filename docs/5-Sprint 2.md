@@ -29,7 +29,9 @@ Antes de iniciar a montagem da mesa interativa, é essencial realizar um planeja
 
    Fotos do processo:
    -----------------------------------------------
-
+<img src=
+<img src=
+<img src=
 
 
 ## Cotação:
