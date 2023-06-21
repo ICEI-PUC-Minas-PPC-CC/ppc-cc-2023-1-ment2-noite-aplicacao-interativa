@@ -29,7 +29,7 @@ Antes de iniciar a montagem da mesa interativa, é essencial realizar um planeja
 
    Fotos do processo:
    -----------------------------------------------
-<img src=
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-1-ment2-noite-aplicacao-interativa/blob/main/docs/img/projeto%20mentoring%202.jfif">
 <img src=
 <img src=
 
