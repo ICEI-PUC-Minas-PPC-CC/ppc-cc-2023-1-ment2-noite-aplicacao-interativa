@@ -67,5 +67,6 @@ Fios pra conexão: fios podem ser comprados com a necessidade ao longo do projet
 
 # Dificuldades:
 
-Com todo o andamento do projeto em sua maioria sendo a parte elétrica, tivemos alguma dificuldade causada pela falta de expêriencia na área, a disciplina em si foi diferente e interessante, e a causa em que estavamos trabalhando nos deu um incentivo maior para a realização do projeto. A falta de tempo, tambem foi um impecilio para a entrega, pois o processo de compra dos componentes foi muito extendido e ocasionou no atraso da montagem, junto a pouca pratica na area, ficamos meio dependentes dos colegas da engenharia elétrica.
+Com todo o andamento do projeto em sua maioria sendo a parte elétrica, tivemos alguma dificuldade causada pela falta de expêriencia na área, a disciplina, em si, foi diferente e interessante, e a causa em que estavamos trabalhando nos deu um incentivo maior para a realização do projeto. A falta de tempo, tambem foi um empecilio para a entrega, pois o processo de compra dos componentes foi muito extendido e ocasionou no atraso da montagem, junto a pouca pratica na area, ficamos dependentes dos colegas da engenharia elétrica.
+
 
